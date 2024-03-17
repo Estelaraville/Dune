@@ -1,0 +1,12 @@
+body{
+    background-image: url("img/dune.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    font-size: medium;
+    font-family:Georgia, 'Times New Roman', Times, serif;  
+}
+
+.botones{
+    min-width: 1100px;
+}
